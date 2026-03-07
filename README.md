@@ -217,20 +217,6 @@
 
 </div>
 
----
-<!-- ─── WAKATIME / ACTIVITY CHART ─────────────────────────────── -->
-
-<div align="center">
-
-### 〔 Contribution Activity 〕
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=kusanele&bg_color=D7B0BF&color=ffffff&line=c49aab&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Marble%27s%20Contribution%20Graph" />
-
-</div>
-
----
-
-
 <!-- ─── FOOTER ──────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -240,10 +226,6 @@
 </div>
 ----
 
-
-
-
----
 
 <!-- ═══ FOOTER — SPECTACULAR AI NEURAL NETWORK SCENE ════════════
      Snake animation = data flowing through a neural network
