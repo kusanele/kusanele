@@ -53,7 +53,7 @@
      Upload profile.jpg to your repo root, then use:
      src="./profile.jpg" width="200"                  -->
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF2enFsdWVqM3N3NGVqaTM4bG1vZWNqOGM0eXYwbHo2Z3A4cGU1eCZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="200" alt="Futuristic AI" />
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF2enFsdWVqM3N3NGVqaTM4bG1vZWNqOGM0eXYwbHo2Z3A4cGU1eCZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif](https://github.com/kusanele/kusanele1/blob/main/WhatsApp%20Image%202026-01-26%20at%2009.31.02%20(2).jpeg)" width="200" alt="Futuristic AI" />
 
 <br/>
 
