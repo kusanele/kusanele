@@ -57,7 +57,7 @@
 
 <br/>
 
-> *Marble Kusanele Mpofu*
+*Marble Kusanele Mpofu*
 
 </td>
 </tr>
