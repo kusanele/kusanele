@@ -68,20 +68,18 @@
 
 <div align="center">
 
-### 〔 GitHub Stats 〕
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kusanele&show_icons=true&hide_border=true&bg_color=0d1117&title_color=D7B0BF&text_color=ffffff&icon_color=C47BE4&ring_color=C47BE4" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusanele&layout=compact&hide_border=true&bg_color=0d1117&title_color=D7B0BF&text_color=ffffff&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kusanele&show_icons=true&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=c49aab" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusanele&layout=compact&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=kusanele&hide_border=true&background=0d1117&ring=C47BE4&fire=D7B0BF&currStreakLabel=D7B0BF&sideLabels=ffffff&dates=ffffffaa&currStreakNum=ffffff&sideNums=ffffff&stroke=C47BE4" />
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kusanele&theme=rose_pine&hide_border=true&background=D7B0BF&ring=ffffff&fire=c49aab&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffffcc&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
- 
+
 ---
 
 <!-- ─── SKILL PROFICIENCY VISUAL ─────────────────────────────── -->
