@@ -68,14 +68,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kusanele&show_icons=true&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=c49aab" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusanele&layout=compact&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&langs_count=8" />
-
-</div>
-
-<div align="center">
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kusanele&theme=rose_pine&hide_border=true&background=D7B0BF&ring=C47BE4&fire=ff6666&currStreakLabel=C47BE4&sideLabels=ffffff&dates=ffffffcc&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
