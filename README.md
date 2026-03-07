@@ -57,8 +57,6 @@
 
 <br/>
 
-> *← swap with `./profile.jpg`*
-
 </td>
 </tr>
 </table>
