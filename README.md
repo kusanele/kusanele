@@ -238,6 +238,43 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D7B0BF&height=100&section=footer&text=Data%20is%20just%20stories%20waiting%20to%20be%20told.&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 </div>
+----
+
+
+
+
+---
+
+<!-- ═══ FOOTER — SPECTACULAR AI NEURAL NETWORK SCENE ════════════
+     Snake animation = data flowing through a neural network
+     Multiple layered GIFs create depth & movement
+     ─────────────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<!-- Floating AI / data science visuals row -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVheTdmbzVvenQweHc0ZHVhcm9neTJyNTZ4bzZ3dGR4ZjNyZzlwbiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="18%" alt="neural network"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1vNXY3dGI3NXBkcDI2aHV3Zzg4azl4MXZsazdtN3kwbzlvajZodyZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="18%" alt="data viz"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF2enFsdWVqM3N3NGVqaTM4bG1vZWNqOGM0eXYwbHo2Z3A4cGU1eCZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/RDZo7znAdn2u7sAcWH/giphy.gif" width="18%" alt="AI robot"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1vNXY3dGI3NXBkcDI2aHV3Zzg4azl4MXZsazdtN3kwbzlvajZodyZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif" width="18%" alt="data flow"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnVheTdmbzVvenQweHc0ZHVhcm9neTJyNTZ4bzZ3dGR4ZjNyZzlwbiZlcD12MV9pbnRlcm5hbGdfaWZfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="18%" alt="neural"/>
+
+<br/>
+
+<!-- Snake contribution animation — data flowing like neurons firing -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kusanele/kusanele/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kusanele/kusanele/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/kusanele/kusanele/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<!-- Footer wave with mantra -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=130&section=footer&text=%22Data%20is%20just%20stories%20waiting%20to%20be%20told.%22&fontSize=18&fontColor=D7B0BF&fontAlignY=55&desc=—%20Marble%20Kusanele%20Mpofu&descSize=13&descColor=ffffff&descAlignY=78"/>
+
+</div>
+
 
 ---
 
