@@ -248,3 +248,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D7B0BF&height=100&section=footer&text=Data%20is%20just%20stories%20waiting%20to%20be%20told.&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 </div>
+
+
+
+
+
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kusanele&show_icons=true&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kusanele&layout=compact&theme=rose_pine&hide_border=true&bg_color=D7B0BF&title_color=ffffff&text_color=ffffff&langs_count=8" />
+
+</div>
