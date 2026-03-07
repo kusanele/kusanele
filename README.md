@@ -27,7 +27,7 @@
 
 <!-- ─── WHO AM I — TWO CARDS SIDE BY SIDE ──────────────────────
      LEFT  : styled info card
-     RIGHT : profile photo placeholder + AI robot GIF
+     RIGHT : profile photo placeholder 
      ─────────────────────────────────────────────────────────── -->
 
 <table width="100%" border="0" cellspacing="12" cellpadding="10">
@@ -92,20 +92,6 @@
 | 📈 Statistical Modelling | `██████████████████░░` 85% |
 
 </div>
-
----
-
-<!-- ─── WAKATIME / ACTIVITY CHART ─────────────────────────────── -->
-
-<div align="center">
-
-### 〔 Contribution Activity 〕
-
-<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=kusanele&bg_color=D7B0BF&color=ffffff&line=c49aab&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Marble%27s%20Contribution%20Graph" />
-
-</div>
-
----
 
 <!-- ─── TECH STACK ─────────────────────────────────────────────── -->
 
@@ -241,4 +227,16 @@
 
 </div>
 
+---
 
+<!-- ─── WAKATIME / ACTIVITY CHART ─────────────────────────────── -->
+
+<div align="center">
+
+### 〔 Contribution Activity 〕
+
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=kusanele&bg_color=D7B0BF&color=ffffff&line=c49aab&point=ffffff&area=true&area_color=ffffff&hide_border=true&custom_title=Marble%27s%20Contribution%20Graph" />
+
+</div>
+
+---
