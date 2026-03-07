@@ -217,15 +217,6 @@
 
 </div>
 
-<!-- ─── FOOTER ──────────────────────────────────────────────────── -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D7B0BF&height=100&section=footer&text=Data%20is%20just%20stories%20waiting%20to%20be%20told.&fontSize=16&fontColor=ffffff&fontAlignY=65" />
-
-</div>
-----
-
 
 <!-- ═══ FOOTER — SPECTACULAR AI NEURAL NETWORK SCENE ════════════
      Snake animation = data flowing through a neural network
@@ -252,11 +243,12 @@
 
 <br/>
 
-<!-- Footer wave with mantra -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=130&section=footer&text=%22Data%20is%20just%20stories%20waiting%20to%20be%20told.%22&fontSize=18&fontColor=D7B0BF&fontAlignY=55&desc=—%20Marble%20Kusanele%20Mpofu&descSize=13&descColor=ffffff&descAlignY=78"/>
+<!-- ─── FOOTER ──────────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D7B0BF&height=100&section=footer&text=Data%20is%20just%20stories%20waiting%20to%20be%20told.&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 </div>
-
-
----
+----
 
