@@ -76,7 +76,7 @@
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=kusanele&theme=rose_pine&hide_border=true&background=D7B0BF&ring=C47BE4&fire=ff6666&currStreakLabel=C47BE4&sideLabels=ffffff&dates=ffffffcc&currStreakNum=ffffff&sideNums=ffffff" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=kusanele&theme=rose_pine&hide_border=true&background=D7B0BF&ring=C47BE4&fire=ff6666&currStreakLabel=C47BE4&sideLabels=C47BE4&dates=ffffffcc&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
