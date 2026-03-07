@@ -57,7 +57,7 @@
 
 <br/>
 
-> *← swap with `./profile.jpg`*
+> *Marble Kusanele Mpofu*
 
 </td>
 </tr>
