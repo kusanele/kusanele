@@ -25,6 +25,15 @@
 
 <!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
 
+<!-- ─── WHO AM I — TWO CARDS SIDE BY SIDE ──────────────────────
+     LEFT  : styled info card
+     RIGHT : profile photo placeholder + AI robot GIF
+     ─────────────────────────────────────────────────────────── -->
+
+<table width="100%" border="0" cellspacing="12" cellpadding="10">
+<tr>
+<td width="55%" valign="middle">
+
 ### 〔 About Me 〕
 
 | | |
