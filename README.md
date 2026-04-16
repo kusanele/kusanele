@@ -247,6 +247,7 @@
 
 <div align="center">
 
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D7B0BF&height=100&section=footer&text=Data%20is%20just%20stories%20waiting%20to%20be%20told.&fontSize=16&fontColor=ffffff&fontAlignY=65" />
 
 </div>
